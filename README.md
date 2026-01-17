@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-![Igor Šikuljak's github stats](https://github-readme-stats.vercel.app/api?username=FmasterofU&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![Igor Šikuljak's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=FmasterofU&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<!--![Igor Šikuljak's github stats](https://github-readme-stats.vercel.app/api?username=FmasterofU&count_private=true&show_icons=true&theme=chartreuse-dark)-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FmasterofU&layout=compact&count_private=true&show_icons=true&theme=chartreuse-dark)
 -->
